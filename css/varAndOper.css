@@ -1,0 +1,57 @@
+button#buttonOne {
+    padding: 8px 5px;
+    border-radius: 7px;
+    background: #B6EAF1;
+    font-weight: 700;
+    color: #292929;
+    font-size: 20px;
+}
+
+button#buttonTwo {
+    padding: 10px 8px;
+    border-radius: 9px;
+    background: red;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 20px;
+}
+button#buttonThree {
+    padding: 8px 5px;
+    border-radius: 7px;
+    background: blue;
+    font-weight: 700;
+    color: red;
+    font-size: 20px;
+}
+button#buttonFour {
+	padding: 8px 5px;
+    border-radius: 7px;
+    background: green;
+    font-weight: 700;
+    color: blue;
+    font-size: 20px;
+}
+button#buttonFive {
+	padding: 8px 5px;
+    border-radius: 7px;
+    background: red;
+    font-weight: 700;
+    color: blue;
+    font-size: 20px;
+}
+button.first{
+	padding: 8px 5px;
+    border-radius: 7px;
+    background: pink;
+    font-weight: 700;
+    color: blue;
+    font-size: 20px;
+}
+button#buttonNine {
+    padding: 8px 5px;
+    border-radius: 7px;
+    background: green;
+    font-weight: 700;
+    color: red;
+    font-size: 20px;
+}
